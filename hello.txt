@@ -2,7 +2,7 @@ hi my name is Cizita.
 
 git commit message ammend
 
-hellooo hello helllo
+hellooo hello hellloch
 my name is Cizita Gautam. I am now taking a session on git and github.
 
 
